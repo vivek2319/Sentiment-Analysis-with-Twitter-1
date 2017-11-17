@@ -10,7 +10,7 @@ Generally speaking, sentiment analysis aims to determine the attitude of a speak
 
 ![Sentiment Analysis using Twitter](http://blog.journals.cambridge.org/wp-content/uploads/2013/05/shutterstock_100269413-1240x660.jpg)
 
-** This repository focues on the project that I did on Sentiment Analysis with Twitter data. For this, I used Twitter API Management, RStudio, Gephi, & Tableau. **
+**This repository focues on the project that I did on Sentiment Analysis with Twitter data. For this, I used Twitter API Management, RStudio, Gephi, & Tableau.**
 
 *More Resources*
 1. [Resource 1](https://web.stanford.edu/class/cs124/lec/sentiment.pdf)
